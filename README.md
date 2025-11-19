@@ -6,3 +6,6 @@
 #MENTOR: NEELA SANTOSH KUMAR
 #CHROME EXTENSION THAT TRACKS THE TIME SPENT ON DIFFERENT WEBSITES AND PROVIDES PRODUCTIVITY ANALYTICS. THE EXTENSION WILL HAVE A BACKEND TO STORE USER DATA AND A DASHBOARD FOR ANALYTICS.
 #OUTPUT
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/97c012de-0561-4497-b15f-4284358aa1b5" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7a90b48d-2217-4443-a8ca-25d696b3f6cc" />
